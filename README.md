@@ -1,0 +1,1 @@
+# Recognition-of-activities-of-daily-living-using-home-automation-sensors-and-deep-learning
